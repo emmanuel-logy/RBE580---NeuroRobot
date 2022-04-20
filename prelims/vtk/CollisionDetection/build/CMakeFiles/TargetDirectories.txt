@@ -1,0 +1,3 @@
+/home/bfrancis/Downloads/CollisionDetection/build/CMakeFiles/CollisionDetection.dir
+/home/bfrancis/Downloads/CollisionDetection/build/CMakeFiles/edit_cache.dir
+/home/bfrancis/Downloads/CollisionDetection/build/CMakeFiles/rebuild_cache.dir
