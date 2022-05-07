@@ -19,6 +19,6 @@ For a quick reference, here's a brief of all that was explored and implemented f
 ---
 ## System Integration
 <figure>
-    <img src="media/SI.png" height="480" width="896" />
+    <img src="media/si.png" height="480" width="896" />
 </figure>
 
