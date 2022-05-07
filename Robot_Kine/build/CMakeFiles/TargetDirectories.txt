@@ -1,0 +1,4 @@
+/home/emmanuel/workspace/ros-workspace/RBE580_ws/src/rbe580_neuro_robot/prelims/sunday/Biomedical_team/build/CMakeFiles/rebuild_cache.dir
+/home/emmanuel/workspace/ros-workspace/RBE580_ws/src/rbe580_neuro_robot/prelims/sunday/Biomedical_team/build/CMakeFiles/edit_cache.dir
+/home/emmanuel/workspace/ros-workspace/RBE580_ws/src/rbe580_neuro_robot/prelims/sunday/Biomedical_team/build/CMakeFiles/test_IK.dir
+/home/emmanuel/workspace/ros-workspace/RBE580_ws/src/rbe580_neuro_robot/prelims/sunday/Biomedical_team/build/CMakeFiles/NeuroKinematics.dir
