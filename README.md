@@ -9,6 +9,23 @@ For a quick reference, here's a brief of all that was explored and implemented f
 - [C++] Robot Kinematics to validate if the entry points are reachable by the robot
 
 ---
+## Segmentation Results
+<figure>
+    <img src="media/white_matter.png" height="480" width="896" />
+</figure>
+<br>
+
+
+---
+## VTK Results
+<figure>
+    <img src="media/vtk.gif" height="480" width="896" />
+</figure>
+<br>
+
+
+
+---
 ## Class Diagram for Robot Kinematics 
 <figure>
     <img src="media/cd.png" height="480" width="896" />
